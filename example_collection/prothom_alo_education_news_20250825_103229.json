@@ -1,0 +1,1742 @@
+{
+  "source": "Prothom Alo Education",
+  "scraped_at": "2025-08-25T10:32:29.536495",
+  "articles": [
+    {
+      "title": "পদার্থবিজ্ঞান",
+      "link": "https://www.bigganchinta.com/physics"
+    },
+    {
+      "title": "প্রযুক্তি",
+      "link": "https://www.bigganchinta.com/technology"
+    },
+    {
+      "title": "গণিত",
+      "link": "https://www.bigganchinta.com/math"
+    },
+    {
+      "title": "মহাকাশ",
+      "link": "https://www.bigganchinta.com/space"
+    },
+    {
+      "title": "জীববিজ্ঞান",
+      "link": "https://www.bigganchinta.com/biology"
+    },
+    {
+      "title": "কার্যকারণ",
+      "link": "https://www.bigganchinta.com/cause"
+    },
+    {
+      "title": "বিজ্ঞান কল্পগল্প",
+      "link": "https://www.bigganchinta.com/sciencefiction"
+    },
+    {
+      "title": "কমিকস",
+      "link": "https://www.bigganchinta.com/comics"
+    },
+    {
+      "title": "বিজ্ঞানরম্য",
+      "link": "https://www.bigganchinta.com/rommo"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.prothomalo.com/topic/সাক্ষাৎকার-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "বন্ধুদের লেখা",
+      "link": "https://www.bondhushava.com/writings"
+    },
+    {
+      "title": "কার্যক্রম",
+      "link": "https://www.bondhushava.com/activities"
+    },
+    {
+      "title": "ফিচার",
+      "link": "https://www.bondhushava.com/feature"
+    },
+    {
+      "title": "খেলা",
+      "link": "https://www.bondhushava.com/sports"
+    },
+    {
+      "title": "ক্যারিয়ার",
+      "link": "https://www.bondhushava.com/career"
+    },
+    {
+      "title": "মনোবন্ধু",
+      "link": "https://www.bondhushava.com/monobondu"
+    },
+    {
+      "title": "ফটো ফিচার",
+      "link": "https://www.bondhushava.com/photo"
+    },
+    {
+      "title": "বন্ধুসভা সম্পর্কে",
+      "link": "https://www.bondhushava.com/bs_about"
+    },
+    {
+      "title": "গল্প",
+      "link": "https://www.kishoralo.com/golpo"
+    },
+    {
+      "title": "কবিতা",
+      "link": "https://www.kishoralo.com/kobita"
+    },
+    {
+      "title": "কমিকস",
+      "link": "https://www.kishoralo.com/comics"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.kishoralo.com/interview"
+    },
+    {
+      "title": "খেলা",
+      "link": "https://www.kishoralo.com/sports"
+    },
+    {
+      "title": "ফিচার",
+      "link": "https://www.kishoralo.com/feature"
+    },
+    {
+      "title": "বিনোদন",
+      "link": "https://www.kishoralo.com/entertainment"
+    },
+    {
+      "title": "জীবনযাপন",
+      "link": "https://www.kishoralo.com/lifestyle"
+    },
+    {
+      "title": "চিঠিপত্র",
+      "link": "https://www.kishoralo.com/letter"
+    },
+    {
+      "title": "আরও",
+      "link": "https://www.kishoralo.com/other"
+    },
+    {
+      "title": "সর্বশেষ",
+      "link": "https://www.prothomalo.com/collection/latest"
+    },
+    {
+      "title": "বাংলাদেশ",
+      "link": "https://www.prothomalo.com/bangladesh"
+    },
+    {
+      "title": "রাজনীতি",
+      "link": "https://www.prothomalo.com/politics"
+    },
+    {
+      "title": "বিশ্ব",
+      "link": "https://www.prothomalo.com/world"
+    },
+    {
+      "title": "বাণিজ্য",
+      "link": "https://www.prothomalo.com/business"
+    },
+    {
+      "title": "মতামত",
+      "link": "https://www.prothomalo.com/opinion"
+    },
+    {
+      "title": "খেলা",
+      "link": "https://www.prothomalo.com/sports"
+    },
+    {
+      "title": "বিনোদন",
+      "link": "https://www.prothomalo.com/entertainment"
+    },
+    {
+      "title": "চাকরি",
+      "link": "https://www.prothomalo.com/chakri"
+    },
+    {
+      "title": "জীবনযাপন",
+      "link": "https://www.prothomalo.com/lifestyle"
+    },
+    {
+      "title": "ভিডিও",
+      "link": "https://www.prothomalo.com/video"
+    },
+    {
+      "title": "রাজনীতি",
+      "link": "https://www.protichinta.com/politics"
+    },
+    {
+      "title": "অর্থনীতি",
+      "link": "https://www.protichinta.com/economy"
+    },
+    {
+      "title": "সমাজ",
+      "link": "https://www.protichinta.com/society"
+    },
+    {
+      "title": "বই আলোচনা",
+      "link": "https://www.protichinta.com/book-discussion"
+    },
+    {
+      "title": "আন্তর্জাতিক",
+      "link": "https://www.protichinta.com/international"
+    },
+    {
+      "title": "রাজনৈতিক অর্থনীতি",
+      "link": "https://www.protichinta.com/political-economy"
+    },
+    {
+      "title": "পরিবেশ",
+      "link": "https://www.protichinta.com/environment"
+    },
+    {
+      "title": "ইতিহাস",
+      "link": "https://www.protichinta.com/history"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.protichinta.com/interview"
+    },
+    {
+      "title": "সাক্ষ্যপ্রমাণ ও দলিলপত্র",
+      "link": "https://www.protichinta.com/evidence-and-documents"
+    },
+    {
+      "title": "প্রচ্ছদ",
+      "link": "https://trust.prothomalo.com"
+    },
+    {
+      "title": "কার্যক্রম",
+      "link": "https://trust.prothomalo.com/activities"
+    },
+    {
+      "title": "ছবি",
+      "link": "https://trust.prothomalo.com/photo"
+    },
+    {
+      "title": "ভিডিও",
+      "link": "https://trust.prothomalo.com/video"
+    },
+    {
+      "title": "ট্রাস্ট সম্পর্কে",
+      "link": "https://trust.prothomalo.com/trust_about"
+    },
+    {
+      "title": "About Prothom Alo Trust",
+      "link": "https://trust.prothomalo.com/trust_details"
+    },
+    {
+      "title": "Contact",
+      "link": "https://trust.prothomalo.com/trust_contact"
+    },
+    {
+      "title": "Updates",
+      "link": "https://en.prothomalo.com/topic/prothom-alo-trust"
+    },
+    {
+      "title": "প্রথম আলো",
+      "link": "https://www.prothomalo.com/"
+    },
+    {
+      "title": "গল্প",
+      "link": "https://www.bondhushava.com/collection/golpo-bondhushava"
+    },
+    {
+      "title": "কবিতা",
+      "link": "https://www.bondhushava.com/collection/poem-bondhushava"
+    },
+    {
+      "title": "রিভিউ",
+      "link": "https://www.bondhushava.com/collection/review-bondhushava"
+    },
+    {
+      "title": "মুক্ত গদ্য",
+      "link": "https://www.bondhushava.com/collection/free-prose-bondhushava"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.bondhushava.com/collection/interview-bondhushava"
+    },
+    {
+      "title": "অনুষ্ঠান",
+      "link": "https://www.bondhushava.com/events"
+    },
+    {
+      "title": "প্রকাশনা",
+      "link": "https://www.bondhushava.com/publications"
+    },
+    {
+      "title": "কর্মসূচি",
+      "link": "https://www.bondhushava.com/collection/program-bondhushava"
+    },
+    {
+      "title": "ফুটবল",
+      "link": "https://www.bondhushava.com/collection/football-bondhushava"
+    },
+    {
+      "title": "ক্রিকেট",
+      "link": "https://www.bondhushava.com/collection/cricket-bondhushava"
+    },
+    {
+      "title": "অন্য খেলা",
+      "link": "https://www.bondhushava.com/collection/another-game-bondhushava"
+    },
+    {
+      "title": "জীবনযাপন",
+      "link": "https://www.bondhushava.com/collection/lifestyle-bondhushava"
+    },
+    {
+      "title": "বিশ্ব",
+      "link": "https://www.bondhushava.com/collection/world-bondhushava"
+    },
+    {
+      "title": "ভ্রমণ",
+      "link": "https://www.bondhushava.com/collection/travel-bondhushava"
+    },
+    {
+      "title": "প্রচ্ছদ",
+      "link": "https://nagorik.prothomalo.com/"
+    },
+    {
+      "title": "আয়োজন",
+      "link": "https://nagorik.prothomalo.com/ayojon"
+    },
+    {
+      "title": "দূর পরবাস",
+      "link": "https://nagorik.prothomalo.com/durporobash"
+    },
+    {
+      "title": "সফলতা",
+      "link": "https://nagorik.prothomalo.com/prosperity"
+    },
+    {
+      "title": "পাঠক",
+      "link": "https://nagorik.prothomalo.com/reader"
+    },
+    {
+      "title": "সংস্কৃতি",
+      "link": "https://nagorik.prothomalo.com/arts"
+    },
+    {
+      "title": "ভ্রমণ",
+      "link": "https://nagorik.prothomalo.com/travel"
+    },
+    {
+      "title": "ছবি",
+      "link": "https://nagorik.prothomalo.com/photo"
+    },
+    {
+      "title": "ক্রিকেট",
+      "link": "https://www.prothomalo.com/sports/cricket"
+    },
+    {
+      "title": "ফুটবল",
+      "link": "https://www.prothomalo.com/sports/football"
+    },
+    {
+      "title": "টেনিস",
+      "link": "https://www.prothomalo.com/sports/tennis"
+    },
+    {
+      "title": "অন্য খেলা",
+      "link": "https://www.prothomalo.com/sports/other-sports"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.prothomalo.com/sports/sports-interview"
+    },
+    {
+      "title": "ফটো ফিচার",
+      "link": "https://www.prothomalo.com/collection/sports-photo-feature"
+    },
+    {
+      "title": "কুইজ",
+      "link": "https://www.prothomalo.com/collection/sports-quiz"
+    },
+    {
+      "title": "সাত রং",
+      "link": "https://www.prothomalo.com/topic/সাত-রং"
+    },
+    {
+      "title": "ছবি",
+      "link": "https://www.prothomalo.com/photo"
+    },
+    {
+      "title": "একঝলক",
+      "link": "https://www.prothomalo.com/photo/glimpse"
+    },
+    {
+      "title": "বাংলাদেশ",
+      "link": "https://www.prothomalo.com/photo/bangladesh"
+    },
+    {
+      "title": "ফ্যাশন",
+      "link": "https://www.prothomalo.com/photo/life-style"
+    },
+    {
+      "title": "খেলা",
+      "link": "https://www.prothomalo.com/photo/sports"
+    },
+    {
+      "title": "বিনোদন",
+      "link": "https://www.prothomalo.com/photo/entertainment"
+    },
+    {
+      "title": "আন্তর্জাতিক",
+      "link": "https://www.prothomalo.com/photo/international"
+    },
+    {
+      "title": "বিজ্ঞান ও প্রযুক্তি",
+      "link": "https://www.prothomalo.com/photo/technology"
+    },
+    {
+      "title": "খবর",
+      "link": "https://www.prothomalo.com/chakri/chakri-news"
+    },
+    {
+      "title": "নিয়োগ",
+      "link": "https://www.prothomalo.com/chakri/employment"
+    },
+    {
+      "title": "পরামর্শ",
+      "link": "https://www.prothomalo.com/chakri/chakri-suggestion"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.prothomalo.com/chakri/chakri-interview"
+    },
+    {
+      "title": "বাংলাদেশ",
+      "link": "https://www.prothomalo.com/video/bangladesh"
+    },
+    {
+      "title": "বিশাল বাংলা",
+      "link": "https://www.prothomalo.com/collection/video-district"
+    },
+    {
+      "title": "বিনোদন",
+      "link": "https://www.prothomalo.com/video/entertainment"
+    },
+    {
+      "title": "আন্তর্জাতিক",
+      "link": "https://www.prothomalo.com/video/international"
+    },
+    {
+      "title": "মানুষের গল্প",
+      "link": "https://www.prothomalo.com/collection/video-human-story"
+    },
+    {
+      "title": "জীবনযাত্রা",
+      "link": "https://www.prothomalo.com/collection/video-lifestyle"
+    },
+    {
+      "title": "কী ও কেন",
+      "link": "https://www.prothomalo.com/collection/video-explainer"
+    },
+    {
+      "title": "খেলা",
+      "link": "https://www.prothomalo.com/video/sports"
+    },
+    {
+      "title": "বিচিত্র",
+      "link": "https://www.prothomalo.com/collection/video-varieties"
+    },
+    {
+      "title": "সম্পাদকীয়",
+      "link": "https://www.prothomalo.com/opinion/editorial"
+    },
+    {
+      "title": "কলাম",
+      "link": "https://www.prothomalo.com/opinion/column"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.prothomalo.com/opinion/interview"
+    },
+    {
+      "title": "স্মরণ",
+      "link": "https://www.prothomalo.com/opinion/memoir"
+    },
+    {
+      "title": "প্রতিক্রিয়া",
+      "link": "https://www.prothomalo.com/opinion/reaction"
+    },
+    {
+      "title": "চিঠি",
+      "link": "https://www.prothomalo.com/opinion/letter"
+    },
+    {
+      "title": "রাজধানী",
+      "link": "https://www.prothomalo.com/bangladesh/capital"
+    },
+    {
+      "title": "জেলা",
+      "link": "https://www.prothomalo.com/bangladesh/district"
+    },
+    {
+      "title": "করোনাভাইরাস",
+      "link": "https://www.prothomalo.com/bangladesh/coronavirus"
+    },
+    {
+      "title": "অপরাধ",
+      "link": "https://www.prothomalo.com/bangladesh/crime"
+    },
+    {
+      "title": "পরিবেশ",
+      "link": "https://www.prothomalo.com/bangladesh/environment"
+    },
+    {
+      "title": "ইরান-ইসরায়েল সংঘাত",
+      "link": "https://www.prothomalo.com/collection/iran-israel-conflict"
+    },
+    {
+      "title": "ফিলিস্তিন-ইসরায়েল সংঘাত",
+      "link": "https://www.prothomalo.com/collection/palestine-israel-conflict"
+    },
+    {
+      "title": "ভারত",
+      "link": "https://www.prothomalo.com/world/india"
+    },
+    {
+      "title": "পাকিস্তান",
+      "link": "https://www.prothomalo.com/world/pakistan"
+    },
+    {
+      "title": "চীন",
+      "link": "https://www.prothomalo.com/world/china"
+    },
+    {
+      "title": "মধ্যপ্রাচ্য",
+      "link": "https://www.prothomalo.com/world/middle-east"
+    },
+    {
+      "title": "যুক্তরাষ্ট্র",
+      "link": "https://www.prothomalo.com/world/usa"
+    },
+    {
+      "title": "এশিয়া",
+      "link": "https://www.prothomalo.com/world/asia"
+    },
+    {
+      "title": "ইউরোপ",
+      "link": "https://www.prothomalo.com/world/europe"
+    },
+    {
+      "title": "আফ্রিকা",
+      "link": "https://www.prothomalo.com/world/africa"
+    },
+    {
+      "title": "লাতিন আমেরিকা",
+      "link": "https://www.prothomalo.com/world/south-america"
+    },
+    {
+      "title": "শেয়ারবাজার",
+      "link": "https://www.prothomalo.com/business/market"
+    },
+    {
+      "title": "ব্যাংক",
+      "link": "https://www.prothomalo.com/business/bank"
+    },
+    {
+      "title": "শিল্প",
+      "link": "https://www.prothomalo.com/business/industry"
+    },
+    {
+      "title": "অর্থনীতি",
+      "link": "https://www.prothomalo.com/business/economics"
+    },
+    {
+      "title": "বিশ্ববাণিজ্য",
+      "link": "https://www.prothomalo.com/business/world-business"
+    },
+    {
+      "title": "বিশ্লেষণ",
+      "link": "https://www.prothomalo.com/business/analysis"
+    },
+    {
+      "title": "আপনার টাকা",
+      "link": "https://www.prothomalo.com/business/personal-finance"
+    },
+    {
+      "title": "উদ্যোক্তা",
+      "link": "https://www.prothomalo.com/business/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE"
+    },
+    {
+      "title": "করপোরেট সংবাদ",
+      "link": "https://www.prothomalo.com/business/corporate"
+    },
+    {
+      "title": "বাজেট ২০২৫–২৬",
+      "link": "https://www.prothomalo.com/collection/budget-2025-26"
+    },
+    {
+      "title": "টেকসই অর্থায়ন",
+      "link": "https://www.prothomalo.com/collection/sustainable-finance"
+    },
+    {
+      "title": "টেলিভিশন",
+      "link": "https://www.prothomalo.com/entertainment/tv"
+    },
+    {
+      "title": "ওটিটি",
+      "link": "https://www.prothomalo.com/entertainment/ott"
+    },
+    {
+      "title": "ঢালিউড",
+      "link": "https://www.prothomalo.com/entertainment/dhallywood"
+    },
+    {
+      "title": "টালিউড",
+      "link": "https://www.prothomalo.com/entertainment/tollywood"
+    },
+    {
+      "title": "বলিউড",
+      "link": "https://www.prothomalo.com/entertainment/bollywood"
+    },
+    {
+      "title": "হলিউড",
+      "link": "https://www.prothomalo.com/entertainment/hollywood"
+    },
+    {
+      "title": "বিশ্ব চলচ্চিত্র",
+      "link": "https://www.prothomalo.com/entertainment/world-cinema"
+    },
+    {
+      "title": "গান",
+      "link": "https://www.prothomalo.com/entertainment/song"
+    },
+    {
+      "title": "নাটক",
+      "link": "https://www.prothomalo.com/entertainment/drama"
+    },
+    {
+      "title": "আলাপন",
+      "link": "https://www.prothomalo.com/entertainment/entertainment-interview"
+    },
+    {
+      "title": "শিক্ষা",
+      "link": "https://www.prothomalo.com/education"
+    },
+    {
+      "title": "ভর্তি",
+      "link": "https://www.prothomalo.com/education/admission"
+    },
+    {
+      "title": "পরীক্ষা",
+      "link": "https://www.prothomalo.com/education/examination"
+    },
+    {
+      "title": "বৃত্তি",
+      "link": "https://www.prothomalo.com/education/scholarship"
+    },
+    {
+      "title": "পড়াশোনা",
+      "link": "https://www.prothomalo.com/education/study"
+    },
+    {
+      "title": "উচ্চশিক্ষা",
+      "link": "https://www.prothomalo.com/education/higher-education"
+    },
+    {
+      "title": "ক্যাম্পাস",
+      "link": "https://www.prothomalo.com/education/campus"
+    },
+    {
+      "title": "ধর্ম",
+      "link": "https://www.prothomalo.com/religion"
+    },
+    {
+      "title": "ইসলাম",
+      "link": "https://www.prothomalo.com/religion/islam"
+    },
+    {
+      "title": "সনাতন",
+      "link": "https://www.prothomalo.com/religion/hindu"
+    },
+    {
+      "title": "বৌদ্ধ",
+      "link": "https://www.prothomalo.com/religion/buddhist"
+    },
+    {
+      "title": "খ্রিষ্টান",
+      "link": "https://www.prothomalo.com/religion/christian"
+    },
+    {
+      "title": "প্রযুক্তি",
+      "link": "https://www.prothomalo.com/technology"
+    },
+    {
+      "title": "গ্যাজেট",
+      "link": "https://www.prothomalo.com/technology/gadget"
+    },
+    {
+      "title": "টিপস",
+      "link": "https://www.prothomalo.com/technology/advice"
+    },
+    {
+      "title": "বিজ্ঞান",
+      "link": "https://www.prothomalo.com/technology/science"
+    },
+    {
+      "title": "অটোমোবাইল",
+      "link": "https://www.prothomalo.com/technology/automobiles"
+    },
+    {
+      "title": "সাইবার–জগৎ",
+      "link": "https://www.prothomalo.com/technology/cyberworld"
+    },
+    {
+      "title": "ফ্রিল্যান্সিং",
+      "link": "https://www.prothomalo.com/technology/freelancing"
+    },
+    {
+      "title": "এআই",
+      "link": "https://www.prothomalo.com/technology/artificial-intelligence"
+    },
+    {
+      "title": "অদম্য মেধাবী তহবিল",
+      "link": "https://trust.prothomalo.com/activities/odommo-medhabi-tohbil"
+    },
+    {
+      "title": "অপরাজেয় তারা",
+      "link": "https://trust.prothomalo.com/activities/aparajeyotara"
+    },
+    {
+      "title": "অদ্বিতীয়া",
+      "link": "https://trust.prothomalo.com/activities/oditiya"
+    },
+    {
+      "title": "আলোর পাঠশালা",
+      "link": "https://trust.prothomalo.com/activities/alor-school"
+    },
+    {
+      "title": "মাদকবিরোধী আন্দোলন",
+      "link": "https://trust.prothomalo.com/activities/drug-abuse"
+    },
+    {
+      "title": "ত্রাণ তহবিল",
+      "link": "https://trust.prothomalo.com/activities/relief-fund"
+    },
+    {
+      "title": "অ্যাসিডদগ্ধ নারীদের জন্য সহায়ক তহবিল",
+      "link": "https://trust.prothomalo.com/activities/acid-victim-aid"
+    },
+    {
+      "title": "সাভার সহায়তা তহবিল",
+      "link": "https://trust.prothomalo.com/activities/savar-aid"
+    },
+    {
+      "title": "সাদত স্মৃতি পল্লী",
+      "link": "https://trust.prothomalo.com/activities/saadat-smriti-polli"
+    },
+    {
+      "title": "প্রচ্ছদ",
+      "link": "https://bigganchinta.com"
+    },
+    {
+      "title": "ছড়া",
+      "link": "https://www.bigganchinta.com/%E0%A6%9B%E0%A7%9C%E0%A6%BE"
+    },
+    {
+      "title": "শব্দকাহন",
+      "link": "https://www.bigganchinta.com/scwords"
+    },
+    {
+      "title": "বইপত্র",
+      "link": "https://www.bigganchinta.com/books"
+    },
+    {
+      "title": "ইভেন্ট",
+      "link": "https://www.bigganchinta.com/events"
+    },
+    {
+      "title": "জানা অজানা",
+      "link": "https://www.prothomalo.com/topic/জানা-অজানা-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "বিজ্ঞানী",
+      "link": "https://www.prothomalo.com/topic/বিজ্ঞানী-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "আপডেট",
+      "link": "https://www.prothomalo.com/topic/আপডেট-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "ডাকবাক্স",
+      "link": "https://www.bigganchinta.com/letters"
+    },
+    {
+      "title": "ই-বিজ্ঞানচিন্তা",
+      "link": "https://epaper.prothomalo.com"
+    },
+    {
+      "title": "অর্ডার করুন",
+      "link": "https://www.prothoma.com/category/%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A8"
+    },
+    {
+      "title": "পাঠকের লেখা",
+      "link": "https://www.prothomalo.com/topic/পাঠকের-লেখা-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "ছবিঘর",
+      "link": "https://www.prothomalo.com/topic/ফটোফিচার"
+    },
+    {
+      "title": "রসায়ন",
+      "link": "https://www.bigganchinta.com/chemistry"
+    },
+    {
+      "title": "কিশোর আলো",
+      "link": "https://www.kishoralo.com/"
+    },
+    {
+      "title": "বিজ্ঞানচিন্তা",
+      "link": "https://www.bigganchinta.com/"
+    },
+    {
+      "title": "প্রথম আলো ট্রাস্ট",
+      "link": "https://trust.prothomalo.com/"
+    },
+    {
+      "title": "বন্ধুসভা",
+      "link": "https://www.bondhushava.com/"
+    },
+    {
+      "title": "চিরন্তন ১৯৭১",
+      "link": "https://1971.prothomalo.com/"
+    },
+    {
+      "title": "ইপেপার",
+      "link": "https://epaper.prothomalo.com/"
+    },
+    {
+      "title": "প্রথমা",
+      "link": "https://www.prothoma.com/"
+    },
+    {
+      "title": "মোবাইল ভ্যাস",
+      "link": "https://www.prothomalo.com/mobile-vas"
+    },
+    {
+      "title": "প্রতিচিন্তা সম্পর্কে",
+      "link": "https://www.protichinta.com/protichinta_about_us"
+    },
+    {
+      "title": "প্রতিচিন্তা পরিবার",
+      "link": "https://www.protichinta.com/protichinta_family"
+    },
+    {
+      "title": "গ্রাহক",
+      "link": "https://www.protichinta.com/protichinta_subscription"
+    },
+    {
+      "title": "যোগাযোগ",
+      "link": "https://www.protichinta.com/protichinta_contact_us"
+    },
+    {
+      "title": "প্রাপ্তিস্থান",
+      "link": "https://www.protichinta.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8"
+    },
+    {
+      "title": "Terms & Conditions",
+      "link": "https://trust.prothomalo.com/terms-and-conditions"
+    },
+    {
+      "title": "Privacy Policy",
+      "link": "https://trust.prothomalo.com/trust-privacy-policy"
+    },
+    {
+      "title": "Return Refund Policy",
+      "link": "https://trust.prothomalo.com/return-refund-policy"
+    },
+    {
+      "title": "সর্বশেষ",
+      "link": "https://www.bigganchinta.com/collection/bigganchinta-latest"
+    },
+    {
+      "title": "গেমস",
+      "link": "https://www.prothomalo.com/topic/গেমস-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "তথ্যকণা",
+      "link": "https://www.prothomalo.com/topic/তথ্যকণা-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "বিজ্ঞান উৎসব",
+      "link": "https://www.prothomalo.com/topic/বিজ্ঞান-উৎসব"
+    },
+    {
+      "title": "বিজ্ঞান কুইজ",
+      "link": "https://www.bigganchinta.com/campaigns/science-quiz.html"
+    },
+    {
+      "title": "বিজ্ঞানে নোবেল",
+      "link": "https://www.prothomalo.com/topic/নোবেল-পুরস্কার-বিজ্ঞানচিন্তা"
+    },
+    {
+      "title": "বন্ধুসভায় নিবন্ধন",
+      "link": "http://bdms.bondhushava.com/login"
+    },
+    {
+      "title": "জাতীয় পরিচালনা পর্ষদ",
+      "link": "https://www.bondhushava.com/bs_committee"
+    },
+    {
+      "title": "গঠনতন্ত্র",
+      "link": "https://www.bondhushava.com/widgets/bondhushava/Bandhusova_Gothontantra_Revised%20disclosure_%20April_2025.pdf"
+    },
+    {
+      "title": "লেখা পাঠাব যেভাবে",
+      "link": "https://www.prothomalo.com/topic/লেখা-পাঠাব-যেভাবে"
+    },
+    {
+      "title": "সদস্য হতে চাই",
+      "link": "https://www.prothomalo.com/topic/সদস্য-হতে-চাই"
+    },
+    {
+      "title": "আমরা সবাই রাজা",
+      "link": "https://www.prothomalo.com/topic/আমরা-সবাই-রাজা-কিআ"
+    },
+    {
+      "title": "ক্লাব কার্যক্রম",
+      "link": "https://www.prothomalo.com/topic/ক্লাব-কার্যক্রম-কিআ"
+    },
+    {
+      "title": "প্রশ্ন উত্তর",
+      "link": "https://www.prothomalo.com/topic/প্রশ্ন-উত্তর-কিআ"
+    },
+    {
+      "title": "আয়োজন",
+      "link": "https://www.prothomalo.com/topic/আয়োজন-কিআ"
+    },
+    {
+      "title": "হাতে কলমে",
+      "link": "https://www.prothomalo.com/topic/হাতে-কলমে-কিআ"
+    },
+    {
+      "title": "বিজ্ঞান কল্পকাহিনী",
+      "link": "https://www.prothomalo.com/topic/বিজ্ঞান-কল্পকাহিনী-কিআ"
+    },
+    {
+      "title": "বিশেষ সংবাদ",
+      "link": "https://www.prothomalo.com/collection/special-news"
+    },
+    {
+      "title": "করোনাভাইরাস",
+      "link": "https://www.prothomalo.com/topic/করোনাভাইরাস"
+    },
+    {
+      "title": "সুস্থতা",
+      "link": "https://www.prothomalo.com/lifestyle/health"
+    },
+    {
+      "title": "একটু থামুন",
+      "link": "https://www.prothomalo.com/fun"
+    },
+    {
+      "title": "অন্য আলো",
+      "link": "https://www.prothomalo.com/onnoalo"
+    },
+    {
+      "title": "নিউজলেটার",
+      "link": "https://mailchi.mp/prothomalo/prothom-alo-newsletter-landing"
+    },
+    {
+      "title": "প্রথম আলো",
+      "link": "https://prothomalo.com/about"
+    },
+    {
+      "title": "বিজ্ঞাপন",
+      "link": "https://prothomalo.com/advertise"
+    },
+    {
+      "title": "সার্কুলেশন",
+      "link": "https://www.prothomalo.com/circulation"
+    },
+    {
+      "title": "শর্তাবলি ও নীতিমালা",
+      "link": "https://prothomalo.com/terms"
+    },
+    {
+      "title": "গোপনীয়তা নীতি",
+      "link": "https://www.prothomalo.com/privacy-policy"
+    },
+    {
+      "title": "যোগাযোগ",
+      "link": "https://prothomalo.com/contact"
+    },
+    {
+      "title": "বাজেট ২০২৪-২৫",
+      "link": "https://www.prothomalo.com/collection/budget-2024-25"
+    },
+    {
+      "title": "প্যারিস অলিম্পিক",
+      "link": "https://www.prothomalo.com/collection/olympic"
+    },
+    {
+      "title": "ভ্রমণ",
+      "link": "https://www.prothomalo.com/lifestyle/travel"
+    },
+    {
+      "title": "সম্পর্ক",
+      "link": "https://www.prothomalo.com/lifestyle/relation"
+    },
+    {
+      "title": "রাশি",
+      "link": "https://www.prothomalo.com/lifestyle/horoscope"
+    },
+    {
+      "title": "ফ্যাশন",
+      "link": "https://www.prothomalo.com/lifestyle/fashion"
+    },
+    {
+      "title": "স্টাইল",
+      "link": "https://www.prothomalo.com/lifestyle/style"
+    },
+    {
+      "title": "ই পেপার",
+      "link": "https://epaperna.prothomalo.com/"
+    },
+    {
+      "title": "রূপচর্চা",
+      "link": "https://www.prothomalo.com/lifestyle/beauty"
+    },
+    {
+      "title": "গৃহসজ্জা",
+      "link": "https://www.prothomalo.com/lifestyle/interior"
+    },
+    {
+      "title": "রসনা",
+      "link": "https://www.prothomalo.com/lifestyle/recipe"
+    },
+    {
+      "title": "কেনাকাটা",
+      "link": "https://www.prothomalo.com/lifestyle/shopping"
+    },
+    {
+      "title": "মার্কিন নির্বাচন",
+      "link": "https://northamerica.prothomalo.com/campaigns/election/us2020/index.html"
+    },
+    {
+      "title": "প্রচ্ছদ",
+      "link": "https://m.prothomalo.com/"
+    },
+    {
+      "title": "পটভূমি",
+      "link": "https://1971.prothomalo.com/background"
+    },
+    {
+      "title": "মুক্তিযুদ্ধের দিনলিপি",
+      "link": "https://1971.prothomalo.com/diary-1971"
+    },
+    {
+      "title": "সরকার",
+      "link": "https://1971.prothomalo.com/mujibnagar-government"
+    },
+    {
+      "title": "মুক্তিবাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force"
+    },
+    {
+      "title": "সেক্টর",
+      "link": "https://1971.prothomalo.com/sector-force/sector"
+    },
+    {
+      "title": "মুজিব বাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force/mujib-bahini"
+    },
+    {
+      "title": "গণহত্যা",
+      "link": "https://1971.prothomalo.com/genocide"
+    },
+    {
+      "title": "শহীদ বুদ্ধিজীবী",
+      "link": "https://1971.prothomalo.com/martyred-intellectuals"
+    },
+    {
+      "title": "ছবি",
+      "link": "https://1971.prothomalo.com/photo"
+    },
+    {
+      "title": "ভিডিও",
+      "link": "https://1971.prothomalo.com/video"
+    },
+    {
+      "title": "অডিও",
+      "link": "https://1971.prothomalo.com/audio"
+    },
+    {
+      "title": "গণমাধ্যম",
+      "link": "https://1971.prothomalo.com/media"
+    },
+    {
+      "title": "নথি",
+      "link": "https://1971.prothomalo.com/documents"
+    },
+    {
+      "title": "যুদ্ধাপরাধ",
+      "link": "https://1971.prothomalo.com/war-crimes"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://1971.prothomalo.com/interview"
+    },
+    {
+      "title": "মুক্তিযুদ্ধ বিষয়ক লেখা",
+      "link": "https://1971.prothomalo.com/special-article"
+    },
+    {
+      "title": "সংবাদ",
+      "link": "https://1971.prothomalo.com/news"
+    },
+    {
+      "title": "বই",
+      "link": "https://1971.prothomalo.com/books-1971"
+    },
+    {
+      "title": "চলচ্চিত্র",
+      "link": "https://1971.prothomalo.com/video/cinema"
+    },
+    {
+      "title": "তথ্যচিত্র",
+      "link": "https://1971.prothomalo.com/video/documentaries"
+    },
+    {
+      "title": "ভাষা আন্দোলন",
+      "link": "https://1971.prothomalo.com/background/language-movement-1947-1952"
+    },
+    {
+      "title": "৫৪ এর নির্বাচন",
+      "link": "https://1971.prothomalo.com/background/1954-election"
+    },
+    {
+      "title": "৬২ এর ছাত্র আন্দোলন",
+      "link": "https://1971.prothomalo.com/background/1962-student-movement"
+    },
+    {
+      "title": "ছয় দফা আন্দোলন",
+      "link": "https://1971.prothomalo.com/background/six-point-movement"
+    },
+    {
+      "title": "আগরতলা-ষড়যন্ত্র-মামলা",
+      "link": "https://1971.prothomalo.com/background/agartala-conspiracy-case"
+    },
+    {
+      "title": "৬৯ এর গণ অভ্যুতথান",
+      "link": "https://1971.prothomalo.com/background/mass-uprising-of-1969"
+    },
+    {
+      "title": "৭০ এর নির্বাচন",
+      "link": "https://1971.prothomalo.com/background/election-of-1970"
+    },
+    {
+      "title": "অসহযোগ আন্দোলন মার্চ'৭১",
+      "link": "https://1971.prothomalo.com/background/non-cooperation-movement-march-71"
+    },
+    {
+      "title": "মন্ত্রিপরিষদ",
+      "link": "https://1971.prothomalo.com/mujibnagar-government/cabinet"
+    },
+    {
+      "title": "কর্মকর্তা",
+      "link": "https://1971.prothomalo.com/mujibnagar-government/official"
+    },
+    {
+      "title": "সভার সিদ্ধান্ত",
+      "link": "https://1971.prothomalo.com/mujibnagar-government/meeting-decisions"
+    },
+    {
+      "title": "ছবি",
+      "link": "https://1971.prothomalo.com/mujibnagar-government/photo"
+    },
+    {
+      "title": "ফোর্স",
+      "link": "https://1971.prothomalo.com/sector-force/force"
+    },
+    {
+      "title": "নৌবাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force/navy"
+    },
+    {
+      "title": "বিমানবাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force/air-force"
+    },
+    {
+      "title": "কাদেরিয়া বাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force/kaderia-bahini"
+    },
+    {
+      "title": "অন্যান্য বাহিনী",
+      "link": "https://1971.prothomalo.com/sector-force/others-bahini"
+    },
+    {
+      "title": "মুক্তিযোদ্ধাদের তথ্য",
+      "link": "https://1971.prothomalo.com/freedom-fighters-info"
+    },
+    {
+      "title": "বীরত্বসূচক খেতাবপ্রাপ্তদের তালিকা",
+      "link": "https://1971.prothomalo.com/freedom-fighters-info/gallantry-awardees"
+    },
+    {
+      "title": "মুক্তিযোদ্ধাদের তালিকা",
+      "link": "https://1971.prothomalo.com/freedom-fighters-info/freedomfighters-list"
+    },
+    {
+      "title": "ক্রোড়পত্র",
+      "link": "https://1971.prothomalo.com/supplements"
+    },
+    {
+      "title": "স্বাধীনতার আহবান-৭ মার্চ",
+      "link": "https://1971.prothomalo.com/supplements/call-for-freedom"
+    },
+    {
+      "title": "জনপদের যুদ্ধ",
+      "link": "https://1971.prothomalo.com/supplements/rural-bangla"
+    },
+    {
+      "title": "স্বাধীনতা দিবস-২৬ মার্চ",
+      "link": "https://1971.prothomalo.com/supplements/independence-day"
+    },
+    {
+      "title": "মুক্তিযুদ্ধের সরকার-১৭ এপ্রিল",
+      "link": "https://1971.prothomalo.com/supplements/government-of-liberation-war"
+    },
+    {
+      "title": "স্বাধীন বাংলা বেতার-২৫ মে",
+      "link": "https://1971.prothomalo.com/supplements/independent-bangla-radio"
+    },
+    {
+      "title": "অপারেশন জ্যাকপট-১৬ আগস্ট",
+      "link": "https://1971.prothomalo.com/supplements/operation-jackpot"
+    },
+    {
+      "title": "কিলো ফ্লাইট-২৮ সেপ্টেম্বর",
+      "link": "https://1971.prothomalo.com/supplements/kilo-flight"
+    },
+    {
+      "title": "বিজয় দিবস-১৬ ডিসেম্বর",
+      "link": "https://1971.prothomalo.com/supplements/victory-day"
+    },
+    {
+      "title": "ছুটির দিনে",
+      "link": "https://1971.prothomalo.com/supplements/chutir-dine"
+    },
+    {
+      "title": "অন্য আলো",
+      "link": "https://1971.prothomalo.com/supplements/onno-alo"
+    },
+    {
+      "title": "সাহিত্য সাময়িকী",
+      "link": "https://1971.prothomalo.com/supplements/literature"
+    },
+    {
+      "title": "মুক্তিযোদ্ধা",
+      "link": "https://1971.prothomalo.com/interview/freedom-fighter"
+    },
+    {
+      "title": "প্রত্যক্ষদর্শী",
+      "link": "https://1971.prothomalo.com/interview/eyewitness"
+    },
+    {
+      "title": "সংগঠক",
+      "link": "https://1971.prothomalo.com/interview/organizer"
+    },
+    {
+      "title": "ক্ষতিগ্রস্থ",
+      "link": "https://1971.prothomalo.com/interview/affected"
+    },
+    {
+      "title": "গবেষক",
+      "link": "https://1971.prothomalo.com/interview/researcher"
+    },
+    {
+      "title": "বিশেষজ্ঞ",
+      "link": "https://1971.prothomalo.com/interview/specialist"
+    },
+    {
+      "title": "মিত্রপক্ষ",
+      "link": "https://1971.prothomalo.com/interview/allies"
+    },
+    {
+      "title": "শত্রুপক্ষ",
+      "link": "https://1971.prothomalo.com/interview/enemy"
+    },
+    {
+      "title": "বেতার",
+      "link": "https://1971.prothomalo.com/media/radio"
+    },
+    {
+      "title": "টেলিভিশন",
+      "link": "https://1971.prothomalo.com/media/television"
+    },
+    {
+      "title": "সংবাদ সংস্থা",
+      "link": "https://1971.prothomalo.com/media/news-agency"
+    },
+    {
+      "title": "জয়বাংলা",
+      "link": "https://1971.prothomalo.com/media/joybangla"
+    },
+    {
+      "title": "আনন্দবাজার পত্রিকা",
+      "link": "https://1971.prothomalo.com/media/anandabazar-potrika"
+    },
+    {
+      "title": "MORNING NEWS",
+      "link": "https://1971.prothomalo.com/media/morning-news"
+    },
+    {
+      "title": "THE PAKISTAN OBSERVER",
+      "link": "https://1971.prothomalo.com/media/the-pakistan-observer"
+    },
+    {
+      "title": "বাংলাদেশ",
+      "link": "https://1971.prothomalo.com/documents/bangladesh"
+    },
+    {
+      "title": "ভারত",
+      "link": "https://1971.prothomalo.com/documents/india"
+    },
+    {
+      "title": "যুক্তরাষ্ট্র",
+      "link": "https://1971.prothomalo.com/documents/united-states"
+    },
+    {
+      "title": "অন্যান্য",
+      "link": "https://1971.prothomalo.com/documents/others"
+    },
+    {
+      "title": "সংবাদ",
+      "link": "https://1971.prothomalo.com/video/news"
+    },
+    {
+      "title": "বাংলাদেশী অভিজ্ঞতা",
+      "link": "https://1971.prothomalo.com/video/bangladeshi-experience"
+    },
+    {
+      "title": "ভারতীয় অভিজ্ঞতা",
+      "link": "https://1971.prothomalo.com/video/indian-experience"
+    },
+    {
+      "title": "বিবিধ",
+      "link": "https://1971.prothomalo.com/video/others"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://1971.prothomalo.com/audio/interview"
+    },
+    {
+      "title": "সংবাদ",
+      "link": "https://1971.prothomalo.com/audio/news"
+    },
+    {
+      "title": "বিবিধ",
+      "link": "https://1971.prothomalo.com/audio/others"
+    },
+    {
+      "title": "একাত্তরের চিঠি",
+      "link": "https://1971.prothomalo.com/books-1971/ekattorer-chithi"
+    },
+    {
+      "title": "জন উদ্যোগ",
+      "link": "https://1971.prothomalo.com/private-initiative"
+    },
+    {
+      "title": "শরণার্থী",
+      "link": "https://1971.prothomalo.com/refugees"
+    },
+    {
+      "title": "কলকাতা",
+      "link": "https://1971.prothomalo.com/refugees/kolkata"
+    },
+    {
+      "title": "ত্রিপুরা",
+      "link": "https://1971.prothomalo.com/refugees/tripura"
+    },
+    {
+      "title": "অপরাধ",
+      "link": "https://1971.prothomalo.com/war-crimes/crime"
+    },
+    {
+      "title": "বিচার",
+      "link": "https://1971.prothomalo.com/war-crimes/judgement"
+    },
+    {
+      "title": "বিশেষ দিবস",
+      "link": "https://1971.prothomalo.com/special-days"
+    },
+    {
+      "title": "ফ্যাশন",
+      "link": "https://www.haal.fashion/fashion"
+    },
+    {
+      "title": "রূপচর্চা",
+      "link": "https://www.haal.fashion/beauty"
+    },
+    {
+      "title": "তারকা",
+      "link": "https://www.haal.fashion/celeb"
+    },
+    {
+      "title": "মুখোমুখি",
+      "link": "https://www.haal.fashion/face-to-face"
+    },
+    {
+      "title": "খাওয়াদাওয়া",
+      "link": "https://www.haal.fashion/food"
+    },
+    {
+      "title": "যাপন",
+      "link": "https://www.haal.fashion/lifestyle"
+    },
+    {
+      "title": "বেড়ানো",
+      "link": "https://www.haal.fashion/travel"
+    },
+    {
+      "title": "আয়োজন",
+      "link": "https://www.haal.fashion/arrangement"
+    },
+    {
+      "title": "পোর্টফোলিও",
+      "link": "https://www.haal.fashion/portfolio"
+    },
+    {
+      "title": "ভিডিও",
+      "link": "https://www.haal.fashion/video"
+    },
+    {
+      "title": "আমাদের সম্পর্কে",
+      "link": "https://www.haal.fashion/about-us"
+    },
+    {
+      "title": "নীতিমালা",
+      "link": "https://www.haal.fashion/terms-of-use"
+    },
+    {
+      "title": "গোপনীয়তা নীতি",
+      "link": "https://www.haal.fashion/privacy"
+    },
+    {
+      "title": "ট্রেন্ড",
+      "link": "https://www.haal.fashion/fashion/trend"
+    },
+    {
+      "title": "স্টাইল",
+      "link": "https://www.haal.fashion/fashion/style"
+    },
+    {
+      "title": "রিভিউ",
+      "link": "https://www.haal.fashion/fashion/review"
+    },
+    {
+      "title": "অনুষঙ্গ",
+      "link": "https://www.haal.fashion/fashion/accessories"
+    },
+    {
+      "title": "ট্রেন্ড",
+      "link": "https://www.haal.fashion/beauty/trend"
+    },
+    {
+      "title": "যত্ন",
+      "link": "https://www.haal.fashion/beauty/care"
+    },
+    {
+      "title": "মেকআপ",
+      "link": "https://www.haal.fashion/beauty/make-over"
+    },
+    {
+      "title": "রিভিউ",
+      "link": "https://www.haal.fashion/beauty/review"
+    },
+    {
+      "title": "প্রচ্ছদ",
+      "link": "https://1971.prothomalo.com"
+    },
+    {
+      "title": "কবিতা",
+      "link": "https://www.prothomalo.com/onnoalo/poem"
+    },
+    {
+      "title": "গল্প",
+      "link": "https://www.prothomalo.com/onnoalo/stories"
+    },
+    {
+      "title": "নিবন্ধ",
+      "link": "https://www.prothomalo.com/onnoalo/treatise"
+    },
+    {
+      "title": "বইপত্র",
+      "link": "https://www.prothomalo.com/onnoalo/books"
+    },
+    {
+      "title": "শিল্পকলা",
+      "link": "https://www.prothomalo.com/onnoalo/arts"
+    },
+    {
+      "title": "সাক্ষাৎকার",
+      "link": "https://www.prothomalo.com/onnoalo/interview"
+    },
+    {
+      "title": "ভ্রমণ",
+      "link": "https://www.prothomalo.com/onnoalo/travel"
+    },
+    {
+      "title": "অন্যান্য",
+      "link": "https://www.prothomalo.com/onnoalo/others"
+    },
+    {
+      "title": "অনুবাদ",
+      "link": "https://www.prothomalo.com/onnoalo/translation"
+    },
+    {
+      "title": "মুক্ত গদ্য",
+      "link": "https://www.prothomalo.com/onnoalo/prose"
+    },
+    {
+      "title": "শিশু-কিশোর",
+      "link": "https://www.prothomalo.com/onnoalo/children"
+    },
+    {
+      "title": "গোলটেবিল",
+      "link": "https://www.prothomalo.com/roundtable"
+    },
+    {
+      "title": "বিশেষ সংখ্যা",
+      "link": "https://www.prothomalo.com/special-supplement"
+    },
+    {
+      "title": "অনলাইন ভোট",
+      "link": "https://www.prothomalo.com/poll"
+    },
+    {
+      "title": "প্রতিষ্ঠাবার্ষিকী",
+      "link": "https://www.prothomalo.com/anniversary"
+    },
+    {
+      "title": "ক্যালেন্ডার",
+      "link": "https://services.prothomalo.com/calendar/"
+    },
+    {
+      "title": "বাংলা নববর্ষ",
+      "link": "https://www.prothomalo.com/special-supplement/banglanewyear"
+    },
+    {
+      "title": "ইংরেজি নববর্ষ",
+      "link": "https://www.prothomalo.com/special-supplement/englishnewyear"
+    },
+    {
+      "title": "অমর একুশে",
+      "link": "https://www.prothomalo.com/special-supplement/internationalmotherlanguageday"
+    },
+    {
+      "title": "বিজয় দিবস",
+      "link": "https://www.prothomalo.com/special-supplement/victoryday"
+    },
+    {
+      "title": "গণিত উৎসব",
+      "link": "https://www.prothomalo.com/special-supplement/matholympiad"
+    },
+    {
+      "title": "ঈদ আনন্দ",
+      "link": "https://www.prothomalo.com/special-supplement/eid-ananda"
+    },
+    {
+      "title": "মেরিন শিক্ষানবিশ কোর্সে ভর্তির সুযোগ, আসন ২২০টি",
+      "link": "https://www.prothomalo.com/education/admission/sndkus0q1z"
+    },
+    {
+      "title": "বিদেশে পড়াশোনা : যে ৬ দক্ষতা জরুরি",
+      "link": "https://www.prothomalo.com/education/higher-education/dromq5qeiv"
+    },
+    {
+      "title": "বিদেশগামী শিক্ষার্থীদের সুখবর দিল অন্তর্বর্তী সরকার",
+      "link": "https://www.prothomalo.com/education/higher-education/0kvw8aadtz"
+    },
+    {
+      "title": "চীনের ‘শোয়ার্জম্যান স্কলারস’ প্রোগ্রামে ফুল ফান্ডেড স্কলারশিপ, আবেদন স্নাতকোত্তরে",
+      "link": "https://www.prothomalo.com/education/scholarship/203m3zelsk"
+    },
+    {
+      "title": "কলেজে ভর্তি নিয়ে নতুন নির্দেশনা, যা যা মানতে হবে",
+      "link": "https://www.prothomalo.com/education/admission/iczmsibdy5"
+    },
+    {
+      "title": "প্রাথমিক বৃত্তি পরীক্ষার প্রস্তুতি: নিতে হবে এখন থেকেই",
+      "link": "https://www.prothomalo.com/education/examination/ldbohki42s"
+    },
+    {
+      "title": "পাঁচ ক্যাটাগরিতে গবেষণা বৃত্তি দেবে আন্তর্জাতিক মাতৃভাষা ইনস্টিটিউট",
+      "link": "https://www.prothomalo.com/education/scholarship/2xktvqi73g"
+    },
+    {
+      "title": "নেদারল্যান্ডসে বিনা মূল্যে পড়াশোনা, আবেদন স্নাতকোত্তরে",
+      "link": "https://www.prothomalo.com/education/scholarship/puzvnkvp0u"
+    },
+    {
+      "title": "ব্র্যাক বিশ্ববিদ্যালয়ে প্লাস্টিক বর্জ্য গবেষণায় ফান্ডেড পিএইচডি স্কলারশিপ",
+      "link": "https://www.prothomalo.com/education/scholarship/5sz07m7pmw"
+    },
+    {
+      "title": "শাহ্জালাল ইসলামী ব্যাংক ফাউন্ডেশনের শিক্ষাবৃত্তি, পাবেন স্নাতক শিক্ষার্থীরা",
+      "link": "https://www.prothomalo.com/education/scholarship/d47t2xq6yc"
+    },
+    {
+      "title": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে পিএইচডি, মিলবে মাসে ৪০ হাজার টাকা",
+      "link": "https://www.prothomalo.com/education/admission/egjahjk90x"
+    },
+    {
+      "title": "জাতীয় বিশ্ববিদ্যালয়ের ২০২৩ সালের ডিগ্রি (পাস) ও সার্টিফিকেট কোর্স তৃতীয় বর্ষ পরীক্ষার সময়সূচি",
+      "link": "https://www.prothomalo.com/education/admission/emoftdevbw"
+    },
+    {
+      "title": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে পাবলিক হেলথে মাস্টার্স, আবেদন ফি ১৫০০ টাকা",
+      "link": "https://www.prothomalo.com/education/admission/hgo5q49ow2"
+    },
+    {
+      "title": "নারী শিক্ষার্থীদের কেয়ারগিভিং কোর্স, সরকারিভাবে বিনা খরচে",
+      "link": "https://www.prothomalo.com/education/admission/h21h4k9nx3"
+    },
+    {
+      "title": "ঢাকা বিশ্ববিদ্যালয়ে প্রথমবারের মতো অনুষ্ঠিত হচ্ছে ‘ম্যাটেরিয়াল ফেস্ট ১.০’",
+      "link": "https://www.prothomalo.com/education/campus/eq73zxoflu"
+    },
+    {
+      "title": "টরন্টোয় রাজশাহী বিশ্ববিদ্যালয় শিক্ষার্থীদের মহামিলন",
+      "link": "https://www.prothomalo.com/education/campus/qylcl9dcw2"
+    },
+    {
+      "title": "চট্টগ্রাম গ্রামার স্কুলে এনসিইউকে ফাউন্ডেশন কোর্সের যাত্রা শুরু",
+      "link": "https://www.prothomalo.com/education/campus/zyrl49q39m"
+    },
+    {
+      "title": "হাজারীবাগে প্রথম নারীদের জন্য বাংলাদেশ বুক অলিম্পিয়াড",
+      "link": "https://www.prothomalo.com/education/campus/834jzvloxr"
+    },
+    {
+      "title": "হার্ভার্ড ক্যাম্পাসে চবি অ্যালামনাই ইউএসএর দুই দিনব্যাপী কনভেনশন",
+      "link": "https://www.prothomalo.com/education/campus/5t28jzmuvw"
+    },
+    {
+      "title": "ইউনিভার্সেল মেডিকেল ও ভ্যাট ফোরাম-এর স্বাস্থ্যচুক্তি  সই",
+      "link": "https://www.prothomalo.com/education/campus/r2zjrt3dpc"
+    },
+    {
+      "title": "ড্যাফোডিল ইন্টারন্যাশনাল ইউনিভার্সিটির সহ–উপাচার্য হিসেবে যোগ দিলেন মাসুম ইকবাল",
+      "link": "https://www.prothomalo.com/education/campus/paxam2pot2"
+    },
+    {
+      "title": "ঢাকা বিশ্ববিদ্যালয়ে প্রথমবারের মতো অনুষ্ঠিত হচ্ছে ‘রোবোট্রনিকস ফেস্ট’",
+      "link": "https://www.prothomalo.com/education/campus/v6nudw6mbi"
+    },
+    {
+      "title": "বিইউএফটিতে আবদুল্লাহ হিল রাকিব স্মরণে সভা ও দোয়া মাহফিল অনুষ্ঠিত",
+      "link": "https://www.prothomalo.com/education/campus/vxaec00gpz"
+    },
+    {
+      "title": "ফিলিস্তিন রাষ্ট্রদূত উদ্বোধন করলেন ইউল্যাবের গ্লোবাল টকস সিরিজ",
+      "link": "https://www.prothomalo.com/education/campus/iqczus2gzi"
+    },
+    {
+      "title": "বিইউবিটিতে ফল ২০২৫ সেমিস্টারের ওরিয়েন্টেশন অনুষ্ঠিত",
+      "link": "https://www.prothomalo.com/education/campus/nuygr5wczq"
+    },
+    {
+      "title": "উরি র‍্যাঙ্কিং–২০২৫: উদ্ভাবনী বিশ্ববিদ্যালয়ের মধ্যে ২৫৭তম উত্তরা ইউনিভার্সিটি",
+      "link": "https://www.prothomalo.com/education/campus/karxbqsb54"
+    },
+    {
+      "title": "টাঙ্গাইল টেক্সটাইল ইঞ্জিনিয়ারিং কলেজে বিএসসি টেক্সটাইল ইঞ্জিনিয়ারিং, আসন ১২০",
+      "link": "https://www.prothomalo.com/education/admission/kjtn470c2e"
+    },
+    {
+      "title": "২০২৬ সালের এইচএসসি মে-জুনে, পরীক্ষা পূর্ণাঙ্গ সিলেবাসে",
+      "link": "https://www.prothomalo.com/education/examination/wsmrhl74tm"
+    },
+    {
+      "title": "ঢাকা বিশ্ববিদ্যালয়ে পাবলিক অ্যাডমিনিস্ট্রেশনে মাস্টার্স, এসএসসি-এইচএসসিতে জিপিএ ৩.৫০",
+      "link": "https://www.prothomalo.com/education/admission/a3wzvqhjw6"
+    },
+    {
+      "title": "জাতীয় বিশ্ববিদ্যালয়ের অনার্স দ্বিতীয় বর্ষ পরীক্ষার ফরম পূরণ, শুরু ২৭ আগস্ট থেকে",
+      "link": "https://www.prothomalo.com/education/examination/cs8cnbvs27"
+    },
+    {
+      "title": "এসএসসির খাতা মূল্যায়নে অবহেলা, ৫ বছর কালো তালিকায় ৭১ শিক্ষক",
+      "link": "https://www.prothomalo.com/education/admission/xlp063gha8"
+    },
+    {
+      "title": "শিক্ষা ক্যাডার ছেড়ে ৬ কর্মকর্তা যোগ দিলেন প্রশাসন-খাদ্য-কর ক্যাডারে",
+      "link": "https://www.prothomalo.com/education/higher-education/vkrybsyw7r"
+    },
+    {
+      "title": "কৃষিগুচ্ছে শূন্য আসনে ভর্তি: অপেক্ষমাণ থেকে ১০ গুণ শিক্ষার্থীর তালিকা প্রকাশ",
+      "link": "https://www.prothomalo.com/education/admission/bhzhoo3i6l"
+    },
+    {
+      "title": "চট্টগ্রামে জাপানি ভাষা শিক্ষা কোর্সে ভর্তি, ফি মাত্র এক হাজার টাকা",
+      "link": "https://www.prothomalo.com/education/admission/23dmqym91j"
+    },
+    {
+      "title": "৩৭৮ কলেজ-মাদ্রাসা ভর্তির জন্য শিক্ষার্থী\nপায়নি, আবেদনে শীর্ষে আনন্দমোহন কলেজ",
+      "link": "https://www.prothomalo.com/education/admission/q7nx49l6gy"
+    },
+    {
+      "title": "বাউবির বিএ ও বিএসএস প্রোগ্রাম: ৭ দেশের প্রবাসী বাংলাদেশিদের জন্য",
+      "link": "https://www.prothomalo.com/education/examination/cvkx3wzqu4"
+    },
+    {
+      "title": "একাদশ শ্রেণিতে ভর্তিতে দ্বিতীয় ধাপে আবেদন শুরু",
+      "link": "https://www.prothomalo.com/education/admission/1b4h7ks1by"
+    },
+    {
+      "title": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ে ৬২ আসন শূন্য, অপেক্ষমাণ শিক্ষার্থীদের আবেদনের আহ্বান",
+      "link": "https://www.prothomalo.com/education/admission/yru4bllk42"
+    },
+    {
+      "title": "বার কাউন্সিলের এমসিকিউ পরীক্ষা, ফরম পূরণ ১ মাস",
+      "link": "https://www.prothomalo.com/education/examination/elyhlpfb1j"
+    },
+    {
+      "title": "যুক্তরাষ্ট্রে উচ্চশিক্ষা: কেন প্রত্যাখ্যাত হচ্ছে এফ-ওয়ান ভিসা, জেনে নিন কারণ ও সমাধান",
+      "link": "https://www.prothomalo.com/education/higher-education/hpkpv2v6dx"
+    },
+    {
+      "title": "অস্ট্রেলিয়ার ভিসা: ইংরেজি ভাষা পরীক্ষার পরিবর্তন, পাঁচটির বদলে ৯ পরীক্ষার ফল গ্রহণ",
+      "link": "https://www.prothomalo.com/education/higher-education/wtu6xosjis"
+    },
+    {
+      "title": "চট্টগ্রামে এইচএসসি পরীক্ষার্থীদের জন্য তিনটি কোর্স, ভর্তি ফি ৭৪৮ টাকা",
+      "link": "https://www.prothomalo.com/education/admission/1bogiemi9m"
+    },
+    {
+      "title": "দরজায় এআই, আমাদেরও জানতে হবে",
+      "link": "https://nagorik.prothomalo.com/durporobash/455oq40arb"
+    },
+    {
+      "title": "৩৭৮ কলেজ–মাদ্রাসা ভর্তির জন্য শিক্ষার্থী পায়নি",
+      "link": "https://www.prothomalo.com/education/admission/378-klej-maadraasaa-bhrtir-jny-shikssaarthii-paayyni"
+    },
+    {
+      "title": "কুমিল্লা বিশ্ববিদ্যালয়ে ইংলিশে প্রফেশনাল মাস্টার্স প্রোগ্রাম, আবেদন শেষ ২৭ আগস্ট",
+      "link": "https://www.prothomalo.com/education/admission/96b0yksndd"
+    },
+    {
+      "title": "ঢাকা বিশ্ববিদ্যালয়ের বিশেষ মাইগ্রেশনের ফল প্রকাশ, কাল শুরু ভর্তি",
+      "link": "https://www.prothomalo.com/education/admission/iwh997wmkw"
+    },
+    {
+      "title": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ে এমআইএস বিভাগ, এমবিএ করার সুযোগ",
+      "link": "https://www.prothomalo.com/education/admission/vpxv2hfs2s"
+    },
+    {
+      "title": "একাদশে ভর্তির সুযোগ তো হলো, শিক্ষার্থী ভর্তি কীভাবে",
+      "link": "https://www.prothomalo.com/education/admission/nr8y27oufe"
+    },
+    {
+      "title": "কমনওয়েলথ ফেলোশিপে মাসে ৩ লাখ ৪৩ হাজার টাকা সঙ্গে নানা সুযোগ, করুন আবেদন",
+      "link": "https://www.prothomalo.com/education/scholarship/iyzrj9q4x8"
+    },
+    {
+      "title": "সন্তান পড়াশোনায় এআই ব্যবহার করছে, অভিভাবক কী করবেন",
+      "link": "https://www.prothomalo.com/education/examination/n0dhqz85ln"
+    }
+  ]
+}
