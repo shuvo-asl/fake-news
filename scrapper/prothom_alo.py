@@ -154,12 +154,12 @@ class ProthomAloScraper(BaseNewsScraper):
             
             # Handle image downloads
             slug = slug or self.create_slug_from_url(story_url)
-            local_images = self.download_images(image_urls, slug)
+            local_images = self.download_images(image_urls)
             
             # Download hero image
             hero_image_local = None
             if hero_image_url:
-                hero_image_local = self.download_image(hero_image_url, slug, "hero")
+                hero_image_local = self.download_image(hero_image_url, "hero")
             
             return {
                 'headline': headline,

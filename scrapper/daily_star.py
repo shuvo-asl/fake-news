@@ -136,7 +136,7 @@ class DailyStarScraper(BaseNewsScraper):
         # Handle image downloads
         slug = self.create_slug_from_url(story_url)
         local_images = self.download_images(
-            story_details['image_urls'], slug, "daily_star"
+            story_details['image_urls']
         )
         
         # Download hero image if available (from the original story data)
@@ -171,7 +171,7 @@ class DailyStarScraper(BaseNewsScraper):
                 hero_image_local = None
                 if story.get('hero_image_url'):
                     hero_image_local = self.download_image(
-                        story['hero_image_url'], slug, "hero", "daily_star"
+                        story['hero_image_url'], "hero",
                     )
                     if hero_image_local:
                         story_details['local_images'].append(hero_image_local)

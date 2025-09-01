@@ -237,12 +237,12 @@ def extract_story_details(story_data, story_url):
                             image_urls.append(image_url)
         
         # Download images and get local paths
-        local_images = download_images(image_urls, slug)
+        local_images = download_images(image_urls)
         
         # Download hero image if it exists
         hero_image_local = None
         if hero_image_url:
-            hero_image_local = download_image(hero_image_url, slug, "hero")
+            hero_image_local = download_image(hero_image_url, "hero")
         
         return {
             'headline': headline,
@@ -262,25 +262,25 @@ def extract_story_details(story_data, story_url):
         print(f"Error extracting story details: {e}")
         return None
 
-def download_images(image_urls, slug):
+def download_images(image_urls):
     """
     Download multiple images and return their local paths
     """
     local_paths = []
     for i, image_url in enumerate(image_urls):
-        local_path = download_image(image_url, slug, f"image_{i+1}")
+        local_path = download_image(image_url, f"image_{i+1}")
         if local_path:
             local_paths.append(local_path)
     
     return local_paths
 
-def download_image(image_url, slug, image_name):
+def download_image(image_url, image_name):
     """
     Download a single image and return its local path
     """
     try:
         # Create images directory if it doesn't exist
-        image_dir = os.path.join("data", "images", slug)
+        image_dir = os.path.join("data", "images", "prothom_alo")
         os.makedirs(image_dir, exist_ok=True)
         
         # Get file extension from URL
@@ -416,7 +416,7 @@ if __name__ == "__main__":
         
         # Scrape detailed content for all stories (limit to 3 for demo)
         print("\nScraping detailed content for each story...")
-        detailed_stories = scrape_all_news_details(stories, delay=2)
+        detailed_stories = scrape_all_news_details(stories, 5, delay=2)
         
         if detailed_stories:
             # Save to JSON file

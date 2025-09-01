@@ -19,6 +19,7 @@ class BaseNewsScraper(ABC):
     
     def __init__(self, source_name: str, base_url: str = None):
         self.source_name = source_name
+        self.static_files_dir =re.sub(r'[-\s]+', '_',  re.sub(r'[^\w\s-]', '', self.source_name.lower()))
         self.base_url = base_url
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -70,25 +71,21 @@ class BaseNewsScraper(ABC):
             slug = slug.split('?')[0]
         return slug
     
-    def download_image(self, image_url: str, slug: str, image_name: str, 
-                      subdirectory: str = None) -> Optional[str]:
-        """Download a single image and return its local path"""
+    def download_image(self, image_url, image_name):
+        """
+        Download a single image and return its local path
+        """
         try:
-            # Create images directory structure
-            base_dir = ["data", "images"]
-            if subdirectory:
-                base_dir.append(subdirectory)
-            base_dir.append(slug)
-            
-            image_dir = os.path.join(*base_dir)
+            # Create images directory if it doesn't exist
+            image_dir = os.path.join("data", "images", self.static_files_dir)
             os.makedirs(image_dir, exist_ok=True)
             
             # Get file extension from URL
-            file_extension = os.path.splitext(image_url.split('?')[0])[1]
-            if not file_extension or len(file_extension) > 5:
-                file_extension = ".jpg"
+            file_extension = os.path.splitext(image_url)[1]
+            # if not file_extension:
+            #     file_extension = ".jpg"  # Default extension
             
-            # Create filename and filepath
+            # Create filename
             filename = f"{image_name}{file_extension}"
             filepath = os.path.join(image_dir, filename)
             
@@ -97,29 +94,33 @@ class BaseNewsScraper(ABC):
                 return os.path.relpath(filepath, "data")
             
             # Download the image
-            response = self.make_request(image_url)
-            if not response:
-                return None
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            }
+            
+            response = requests.get(image_url, headers=headers, stream=True, timeout=30)
+            response.raise_for_status()
             
             # Save the image
             with open(filepath, 'wb') as out_file:
                 response.raw.decode_content = True
                 shutil.copyfileobj(response.raw, out_file)
             
-            print(f"Downloaded image: {filename}")
+            # print(f"Downloaded image: {filename}")
+            
+            # Return relative path
             return os.path.relpath(filepath, "data")
         
         except Exception as e:
             print(f"Error downloading image {image_url}: {e}")
             return None
-    
-    def download_images(self, image_urls: List[str], slug: str, 
-                       subdirectory: str = None) -> List[str]:
+
+    def download_images(self, image_urls: List[str]) -> List[str]:
         """Download multiple images and return their local paths"""
         local_paths = []
         for i, image_url in enumerate(image_urls):
             local_path = self.download_image(
-                image_url, slug, f"image_{i+1}", subdirectory
+                image_url, f"image_{i+1}"
             )
             if local_path:
                 local_paths.append(local_path)
